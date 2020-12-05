@@ -1,0 +1,18 @@
+
+
+h1{
+  color: lightblue;
+  text-align: center;
+}
+
+.line{
+  border-top: 1px dashed lightblue;
+  width: 80%;
+}
+
+.container{
+  text-align: center;
+  border: 1px solid lightblue;
+  margin: 0 auto;
+}
+
